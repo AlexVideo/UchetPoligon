@@ -1,0 +1,11 @@
+* text=auto
+
+# код/конфиги — LF
+*.py   text eol=lf
+*.yml  text eol=lf
+*.yaml text eol=lf
+*.md   text eol=lf
+*.toml text eol=lf
+
+# PowerShell — CRLF
+*.ps1  text eol=crlf
