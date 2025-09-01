@@ -12,3 +12,5 @@ data/uchet.db
 .vscode/
 
 *.docx
+
+bootstrap.ps1
