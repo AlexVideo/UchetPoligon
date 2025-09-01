@@ -4,3 +4,11 @@ __pycache__/
 data/uchet.db
 *.sqlite
 *.db
+
+.vscode/
+
+*.docx
+
+.vscode/
+
+*.docx
